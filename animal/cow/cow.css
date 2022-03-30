@@ -30,7 +30,7 @@ strong {
 }
 
 @keyframes eat {
-    100% {
+    0% {
         height: 0px;
     }
     100% {
