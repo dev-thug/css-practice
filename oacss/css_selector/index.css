@@ -1,0 +1,60 @@
+body, h1, ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    background-color: #ddd;
+}
+
+.wrapper {
+    background-color: white;
+    width: 400px;
+    margin: 50px auto;
+    padding: 3rem;
+}
+
+.rainbow {
+    margin-top: 1rem;
+}
+
+.rainbow li {
+    background-color: #efefef;
+    margin: 1rem;
+    padding: 1rem;
+    border-left: 0.5em solid black;
+    border-radius: 2px;
+}
+
+.rainbow li.red {
+    border-color: red;
+    color: red;
+}
+.rainbow li.orange {
+    border-color: orange;
+    color: orange;
+}
+.rainbow li.yellow {
+    border-color: yellow;
+    color: yellow;
+}
+.rainbow li.green {
+    border-color: green;
+    color: green;
+}
+.rainbow li.blue {
+    border-color: blue;
+    color: blue;
+}
+.rainbow li.navy {
+    border-color: navy;
+    color: navy;
+}
+.rainbow li.navy {
+    border-color: purple;
+    color: purple;
+}
