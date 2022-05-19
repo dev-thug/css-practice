@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+.wrapper{
+    display: flex;
+}
+
+header {
+    display: flex;
+    background-color: antiquewhite;
+    flex: 1;
+}
+
+nav {
+    display: flex;
+    background-color: aqua;
+    width: 150px;
+    height: 40px;
+}
+
+section {
+    display: flex;
+    background-color: aquamarine;
+    width: 200px;
+    height: 40px;
+}
